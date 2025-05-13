@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 import io
 
-st.set_page_config(page_title="HazMap Prototype", layout="wide")
+st.set_page_config(page_title="HazMap App", layout="wide")
 
 # --------- Mock Database ---------
 mock_assets = [
